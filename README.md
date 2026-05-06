@@ -1,6 +1,3 @@
-### Code Coverage
-![Code Coverage](coverage.jpg)
-
 # Industrial Processing System
 
 Implementacija thread-safe servisa za obradu industrijskih zadataka u C#.
