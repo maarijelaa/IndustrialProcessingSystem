@@ -1,0 +1,21 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.swp
+*.swo
+
+## Logs and reports generated at runtime
+job_log.txt
+reports/
+
+## Coverage
+coverage/
+TestResults/
+*.coverage
+
+## OS
+.DS_Store
+Thumbs.db

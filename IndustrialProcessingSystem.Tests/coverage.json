@@ -1,0 +1,1660 @@
+{
+  "IndustrialProcessingSystem.dll": {
+    "C:\\Users\\marij\\Downloads\\IndustrialProcessingSystem\\IndustrialProcessingSystem\\IndustrialProcessingSystem\\Program.cs": {
+      "IndustrialProcessingSystem.Program": {
+        "System.Void IndustrialProcessingSystem.Program::Main(System.String[])": {
+          "Lines": {
+            "10": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "34": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "78": 0,
+            "79": 0,
+            "81": 0,
+            "82": 0,
+            "85": 0,
+            "86": 0,
+            "88": 0,
+            "89": 0
+          },
+          "Branches": [
+            {
+              "Line": 13,
+              "Offset": 22,
+              "EndOffset": 24,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 13,
+              "Offset": 22,
+              "EndOffset": 28,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 41,
+              "EndOffset": 43,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 41,
+              "EndOffset": 80,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 45,
+              "Offset": 506,
+              "EndOffset": 320,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 45,
+              "Offset": 506,
+              "EndOffset": 511,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 694,
+              "EndOffset": 558,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 694,
+              "EndOffset": 699,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 85,
+              "Offset": 827,
+              "EndOffset": 798,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 85,
+              "Offset": 827,
+              "EndOffset": 829,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void IndustrialProcessingSystem.Program::ProducerLoop(IndustrialProcessingSystem.Services.ProcessingSystem,System.Int32,System.Threading.CancellationToken)": {
+          "Lines": {
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "98": 0,
+            "99": 0,
+            "101": 0,
+            "102": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "117": 0,
+            "118": 0,
+            "120": 0,
+            "121": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0
+          },
+          "Branches": [
+            {
+              "Line": 98,
+              "Offset": 577,
+              "EndOffset": 110,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 106,
+              "Offset": 141,
+              "EndOffset": 143,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 106,
+              "Offset": 141,
+              "EndOffset": 163,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 98,
+              "Offset": 577,
+              "EndOffset": 582,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void IndustrialProcessingSystem.Program::CreateDefaultConfig(System.String)": {
+          "Lines": {
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\marij\\Downloads\\IndustrialProcessingSystem\\IndustrialProcessingSystem\\IndustrialProcessingSystem\\Services\\JobEventArgs.cs": {
+      "IndustrialProcessingSystem.Services.JobEventArgs": {
+        "IndustrialProcessingSystem.Models.Job IndustrialProcessingSystem.Services.JobEventArgs::get_Job()": {
+          "Lines": {
+            "7": 26
+          },
+          "Branches": []
+        },
+        "System.Int32 IndustrialProcessingSystem.Services.JobEventArgs::get_Result()": {
+          "Lines": {
+            "8": 24
+          },
+          "Branches": []
+        },
+        "System.String IndustrialProcessingSystem.Services.JobEventArgs::get_Status()": {
+          "Lines": {
+            "9": 7
+          },
+          "Branches": []
+        },
+        "System.Void IndustrialProcessingSystem.Services.JobEventArgs::.ctor(IndustrialProcessingSystem.Models.Job,System.Int32,System.String)": {
+          "Lines": {
+            "11": 24,
+            "12": 24,
+            "13": 24,
+            "14": 24,
+            "15": 24,
+            "16": 24
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\marij\\Downloads\\IndustrialProcessingSystem\\IndustrialProcessingSystem\\IndustrialProcessingSystem\\Services\\JobProcessor.cs": {
+      "IndustrialProcessingSystem.Services.JobProcessor": {
+        "System.Int32 IndustrialProcessingSystem.Services.JobProcessor::ProcessPrime(System.String)": {
+          "Lines": {
+            "8": 12,
+            "10": 12,
+            "11": 12,
+            "12": 12,
+            "14": 84,
+            "15": 24,
+            "16": 24,
+            "17": 24,
+            "18": 12,
+            "19": 12,
+            "20": 12,
+            "21": 24,
+            "24": 12,
+            "26": 12,
+            "27": 12
+          },
+          "Branches": [
+            {
+              "Line": 14,
+              "Offset": 151,
+              "EndOffset": 23,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 24
+            },
+            {
+              "Line": 17,
+              "Offset": 65,
+              "EndOffset": 67,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 12
+            },
+            {
+              "Line": 17,
+              "Offset": 65,
+              "EndOffset": 99,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 12
+            },
+            {
+              "Line": 19,
+              "Offset": 122,
+              "EndOffset": 124,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 12
+            },
+            {
+              "Line": 19,
+              "Offset": 122,
+              "EndOffset": 139,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 24
+            },
+            {
+              "Line": 14,
+              "Offset": 151,
+              "EndOffset": 156,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 12
+            }
+          ]
+        },
+        "System.Int32 IndustrialProcessingSystem.Services.JobProcessor::CountPrimesParallel(System.Int32,System.Int32)": {
+          "Lines": {
+            "30": 12,
+            "31": 14,
+            "33": 10,
+            "34": 10,
+            "37": 10,
+            "38": 10,
+            "40": 68,
+            "41": 25,
+            "42": 25,
+            "43": 25,
+            "45": 26,
+            "47": 24,
+            "48": 24,
+            "50": 24,
+            "51": 24,
+            "52": 24,
+            "53": 22248,
+            "54": 11100,
+            "55": 11100,
+            "56": 1497,
+            "57": 11100,
+            "58": 24,
+            "59": 24,
+            "60": 24,
+            "61": 24,
+            "62": 48,
+            "63": 24,
+            "65": 10,
+            "66": 10,
+            "67": 12
+          },
+          "Branches": [
+            {
+              "Line": 31,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 31,
+              "Offset": 13,
+              "EndOffset": 23,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 10
+            },
+            {
+              "Line": 40,
+              "Offset": 170,
+              "EndOffset": 60,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 25
+            },
+            {
+              "Line": 45,
+              "Offset": 107,
+              "EndOffset": 111,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 24
+            },
+            {
+              "Line": 45,
+              "Offset": 107,
+              "EndOffset": 172,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 10
+            },
+            {
+              "Line": 40,
+              "Offset": 170,
+              "EndOffset": 172,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 10
+            },
+            {
+              "Line": 53,
+              "Offset": 46,
+              "EndOffset": 12,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 11100
+            },
+            {
+              "Line": 55,
+              "Offset": 21,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1497
+            },
+            {
+              "Line": 55,
+              "Offset": 21,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 11100
+            },
+            {
+              "Line": 53,
+              "Offset": 46,
+              "EndOffset": 48,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 24
+            }
+          ]
+        },
+        "System.Boolean IndustrialProcessingSystem.Services.JobProcessor::IsPrime(System.Int32)": {
+          "Lines": {
+            "70": 11100,
+            "71": 11100,
+            "72": 11110,
+            "73": 16635,
+            "74": 117380,
+            "75": 61261,
+            "76": 1487,
+            "77": 11100
+          },
+          "Branches": [
+            {
+              "Line": 71,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 7,
+              "EndOffset": 13,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 11100
+            },
+            {
+              "Line": 72,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 10
+            },
+            {
+              "Line": 72,
+              "Offset": 19,
+              "EndOffset": 25,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 11090
+            },
+            {
+              "Line": 73,
+              "Offset": 33,
+              "EndOffset": 35,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 5545
+            },
+            {
+              "Line": 73,
+              "Offset": 33,
+              "EndOffset": 39,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 5545
+            },
+            {
+              "Line": 74,
+              "Offset": 82,
+              "EndOffset": 44,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 57203
+            },
+            {
+              "Line": 75,
+              "Offset": 55,
+              "EndOffset": 57,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 4058
+            },
+            {
+              "Line": 75,
+              "Offset": 55,
+              "EndOffset": 61,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 53145
+            },
+            {
+              "Line": 74,
+              "Offset": 82,
+              "EndOffset": 84,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 1487
+            }
+          ]
+        },
+        "System.Int32 IndustrialProcessingSystem.Services.JobProcessor::ProcessIO(System.String)": {
+          "Lines": {
+            "80": 25,
+            "82": 25,
+            "83": 25,
+            "85": 25,
+            "87": 19,
+            "88": 19,
+            "89": 19
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\marij\\Downloads\\IndustrialProcessingSystem\\IndustrialProcessingSystem\\IndustrialProcessingSystem\\Services\\ProcessingSystem.cs": {
+      "IndustrialProcessingSystem.Services.ProcessingSystem": {
+        "System.Void IndustrialProcessingSystem.Services.ProcessingSystem::StartWorkers()": {
+          "Lines": {
+            "73": 19,
+            "74": 100,
+            "75": 31,
+            "76": 31,
+            "77": 31,
+            "78": 31,
+            "79": 31,
+            "80": 31,
+            "81": 31,
+            "82": 31,
+            "83": 31,
+            "84": 19
+          },
+          "Branches": [
+            {
+              "Line": 74,
+              "Offset": 115,
+              "EndOffset": 5,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 31
+            },
+            {
+              "Line": 74,
+              "Offset": 115,
+              "EndOffset": 117,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 19
+            }
+          ]
+        },
+        "System.Void IndustrialProcessingSystem.Services.ProcessingSystem::WorkerLoop()": {
+          "Lines": {
+            "87": 31,
+            "88": 75,
+            "89": 46,
+            "90": 46,
+            "92": 46,
+            "93": 46,
+            "95": 101,
+            "96": 55,
+            "97": 55,
+            "98": 55,
+            "100": 46,
+            "101": 21,
+            "102": 21,
+            "103": 21,
+            "104": 21,
+            "105": 21,
+            "106": 46,
+            "108": 46,
+            "109": 21,
+            "110": 21,
+            "111": 19,
+            "112": 44,
+            "113": 29
+          },
+          "Branches": [
+            {
+              "Line": 88,
+              "Offset": 184,
+              "EndOffset": 6,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 46
+            },
+            {
+              "Line": 95,
+              "Offset": 78,
+              "EndOffset": 30,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 55
+            },
+            {
+              "Line": 95,
+              "Offset": 57,
+              "EndOffset": 59,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 74
+            },
+            {
+              "Line": 95,
+              "Offset": 57,
+              "EndOffset": 75,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 27
+            },
+            {
+              "Line": 95,
+              "Offset": 78,
+              "EndOffset": 80,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 46
+            },
+            {
+              "Line": 100,
+              "Offset": 98,
+              "EndOffset": 100,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 21
+            },
+            {
+              "Line": 100,
+              "Offset": 98,
+              "EndOffset": 137,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 46
+            },
+            {
+              "Line": 108,
+              "Offset": 159,
+              "EndOffset": 161,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 21
+            },
+            {
+              "Line": 108,
+              "Offset": 159,
+              "EndOffset": 171,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 44
+            },
+            {
+              "Line": 88,
+              "Offset": 184,
+              "EndOffset": 189,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 29
+            }
+          ]
+        },
+        "IndustrialProcessingSystem.Models.JobHandle IndustrialProcessingSystem.Services.ProcessingSystem::Submit(IndustrialProcessingSystem.Models.Job)": {
+          "Lines": {
+            "116": 36,
+            "119": 36,
+            "121": 36,
+            "122": 36,
+            "123": 36,
+            "124": 1,
+            "127": 35,
+            "128": 2,
+            "130": 33,
+            "131": 0,
+            "134": 33,
+            "136": 33,
+            "137": 33,
+            "138": 33,
+            "141": 33,
+            "144": 33,
+            "145": 33,
+            "147": 33,
+            "148": 33
+          },
+          "Branches": [
+            {
+              "Line": 123,
+              "Offset": 54,
+              "EndOffset": 56,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 123,
+              "Offset": 54,
+              "EndOffset": 119,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 35
+            },
+            {
+              "Line": 127,
+              "Offset": 140,
+              "EndOffset": 142,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 127,
+              "Offset": 140,
+              "EndOffset": 205,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 33
+            },
+            {
+              "Line": 130,
+              "Offset": 226,
+              "EndOffset": 228,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 130,
+              "Offset": 226,
+              "EndOffset": 291,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 33
+            }
+          ]
+        },
+        "System.Void IndustrialProcessingSystem.Services.ProcessingSystem::ProcessJobWithRetry(IndustrialProcessingSystem.Models.Job)": {
+          "Lines": {
+            "151": 21,
+            "154": 52,
+            "155": 26,
+            "156": 26,
+            "157": 26,
+            "158": 26,
+            "161": 26,
+            "162": 52,
+            "163": 26,
+            "165": 24,
+            "166": 6,
+            "168": 6,
+            "169": 5,
+            "170": 5,
+            "171": 5,
+            "174": 1,
+            "176": 1,
+            "177": 1,
+            "181": 18,
+            "182": 18,
+            "183": 18,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "213": 18,
+            "214": 18,
+            "215": 18,
+            "216": 18,
+            "217": 18,
+            "218": 18,
+            "219": 18,
+            "220": 18,
+            "221": 18,
+            "223": 0,
+            "224": 19
+          },
+          "Branches": [
+            {
+              "Line": 154,
+              "Offset": 724,
+              "EndOffset": 28,
+              "Path": 1,
+              "Ordinal": 25,
+              "Hits": 26
+            },
+            {
+              "Line": 162,
+              "Offset": 48,
+              "EndOffset": 50,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 21
+            },
+            {
+              "Line": 162,
+              "Offset": 48,
+              "EndOffset": 74,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 26
+            },
+            {
+              "Line": 165,
+              "Offset": 113,
+              "EndOffset": 115,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 6
+            },
+            {
+              "Line": 168,
+              "Offset": 124,
+              "EndOffset": 126,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 5
+            },
+            {
+              "Line": 170,
+              "Offset": 134,
+              "EndOffset": 136,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 170,
+              "Offset": 134,
+              "EndOffset": 139,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 5
+            },
+            {
+              "Line": 168,
+              "Offset": 124,
+              "EndOffset": 168,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            },
+            {
+              "Line": 165,
+              "Offset": 113,
+              "EndOffset": 188,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 18
+            },
+            {
+              "Line": 186,
+              "Offset": 295,
+              "EndOffset": 297,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 186,
+              "Offset": 295,
+              "EndOffset": 301,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 187,
+              "Offset": 333,
+              "EndOffset": 335,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 189,
+              "Offset": 343,
+              "EndOffset": 345,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 189,
+              "Offset": 343,
+              "EndOffset": 348,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 187,
+              "Offset": 333,
+              "EndOffset": 377,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 201,
+              "Offset": 491,
+              "EndOffset": 493,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 203,
+              "Offset": 501,
+              "EndOffset": 503,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 203,
+              "Offset": 501,
+              "EndOffset": 506,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 201,
+              "Offset": 491,
+              "EndOffset": 535,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 213,
+              "Offset": 561,
+              "EndOffset": 566,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 18
+            },
+            {
+              "Line": 218,
+              "Offset": 638,
+              "EndOffset": 640,
+              "Path": 0,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 218,
+              "Offset": 638,
+              "EndOffset": 643,
+              "Path": 1,
+              "Ordinal": 21,
+              "Hits": 18
+            },
+            {
+              "Line": 219,
+              "Offset": 695,
+              "EndOffset": 697,
+              "Path": 0,
+              "Ordinal": 22,
+              "Hits": 18
+            },
+            {
+              "Line": 213,
+              "Offset": 561,
+              "EndOffset": 708,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 219,
+              "Offset": 695,
+              "EndOffset": 729,
+              "Path": 1,
+              "Ordinal": 23,
+              "Hits": 19
+            },
+            {
+              "Line": 154,
+              "Offset": 724,
+              "EndOffset": 729,
+              "Path": 0,
+              "Ordinal": 24,
+              "Hits": 19
+            }
+          ]
+        },
+        "System.Void IndustrialProcessingSystem.Services.ProcessingSystem::FinalizeAbort(IndustrialProcessingSystem.Models.Job,System.DateTime)": {
+          "Lines": {
+            "227": 1,
+            "228": 1,
+            "229": 1,
+            "230": 1,
+            "231": 1,
+            "232": 1,
+            "233": 1
+          },
+          "Branches": [
+            {
+              "Line": 229,
+              "Offset": 27,
+              "EndOffset": 29,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 229,
+              "Offset": 27,
+              "EndOffset": 32,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 231,
+              "Offset": 103,
+              "EndOffset": 105,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 231,
+              "Offset": 103,
+              "EndOffset": 113,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Int32 IndustrialProcessingSystem.Services.ProcessingSystem::ExecuteJob(IndustrialProcessingSystem.Models.Job)": {
+          "Lines": {
+            "236": 26,
+            "237": 26,
+            "238": 26,
+            "239": 3,
+            "240": 23,
+            "241": 0,
+            "242": 26,
+            "243": 20
+          },
+          "Branches": [
+            {
+              "Line": 237,
+              "Offset": 13,
+              "EndOffset": 17,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 23
+            },
+            {
+              "Line": 237,
+              "Offset": 13,
+              "EndOffset": 23,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 237,
+              "Offset": 19,
+              "EndOffset": 37,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 23
+            },
+            {
+              "Line": 237,
+              "Offset": 19,
+              "EndOffset": 51,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Collections.Generic.IEnumerable`1<IndustrialProcessingSystem.Models.Job> IndustrialProcessingSystem.Services.ProcessingSystem::GetTopJobs(System.Int32)": {
+          "Lines": {
+            "270": 4,
+            "271": 4,
+            "272": 4,
+            "273": 4,
+            "274": 4,
+            "275": 8,
+            "276": 4,
+            "278": 4
+          },
+          "Branches": []
+        },
+        "IndustrialProcessingSystem.Models.Job IndustrialProcessingSystem.Services.ProcessingSystem::GetJob(System.Guid)": {
+          "Lines": {
+            "281": 2,
+            "282": 2,
+            "283": 2,
+            "284": 2
+          },
+          "Branches": []
+        },
+        "System.Void IndustrialProcessingSystem.Services.ProcessingSystem::Dispose()": {
+          "Lines": {
+            "287": 19,
+            "288": 19,
+            "289": 19,
+            "292": 19,
+            "293": 19,
+            "294": 19,
+            "295": 19,
+            "297": 19,
+            "298": 19,
+            "300": 119,
+            "301": 31,
+            "302": 19
+          },
+          "Branches": [
+            {
+              "Line": 300,
+              "Offset": 130,
+              "EndOffset": 103,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 31
+            },
+            {
+              "Line": 300,
+              "Offset": 130,
+              "EndOffset": 132,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 19
+            }
+          ]
+        },
+        "System.Void IndustrialProcessingSystem.Services.ProcessingSystem::.ctor(System.Int32,System.Int32,System.String,System.String)": {
+          "Lines": {
+            "18": 19,
+            "19": 19,
+            "22": 19,
+            "25": 19,
+            "28": 19,
+            "31": 19,
+            "32": 19,
+            "35": 19,
+            "36": 19,
+            "39": 19,
+            "41": 19,
+            "42": 19,
+            "43": 19,
+            "44": 19,
+            "45": 19,
+            "46": 19,
+            "48": 19,
+            "49": 19,
+            "50": 37,
+            "51": 37,
+            "52": 52,
+            "53": 22,
+            "54": 37,
+            "55": 19,
+            "58": 19,
+            "59": 18,
+            "60": 18,
+            "61": 37,
+            "63": 19,
+            "64": 6,
+            "65": 6,
+            "66": 25,
+            "68": 19,
+            "69": 19,
+            "70": 19
+          },
+          "Branches": [
+            {
+              "Line": 52,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 15
+            },
+            {
+              "Line": 52,
+              "Offset": 26,
+              "EndOffset": 32,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 22
+            }
+          ]
+        }
+      },
+      "IndustrialProcessingSystem.Services.ProcessingSystem/<>c__DisplayClass28_0": {
+        "System.Void IndustrialProcessingSystem.Services.ProcessingSystem/<>c__DisplayClass28_0::<LogEventAsync>b__0()": {
+          "Lines": {
+            "255": 15,
+            "256": 15,
+            "257": 15,
+            "258": 16,
+            "259": 14,
+            "260": 14,
+            "261": 30
+          },
+          "Branches": [
+            {
+              "Line": 258,
+              "Offset": 40,
+              "EndOffset": 42,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 258,
+              "Offset": 40,
+              "EndOffset": 44,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 14
+            }
+          ]
+        }
+      },
+      "IndustrialProcessingSystem.Services.ProcessingSystem/<LogEventAsync>d__28": {
+        "System.Void IndustrialProcessingSystem.Services.ProcessingSystem/<LogEventAsync>d__28::MoveNext()": {
+          "Lines": {
+            "246": 24,
+            "247": 33,
+            "249": 15,
+            "251": 15,
+            "254": 15,
+            "262": 15,
+            "263": 0,
+            "264": 0,
+            "265": 0,
+            "266": 0,
+            "267": 24
+          },
+          "Branches": [
+            {
+              "Line": 247,
+              "Offset": 61,
+              "EndOffset": 63,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 9
+            },
+            {
+              "Line": 247,
+              "Offset": 61,
+              "EndOffset": 68,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 15
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\marij\\Downloads\\IndustrialProcessingSystem\\IndustrialProcessingSystem\\IndustrialProcessingSystem\\Services\\ReportService.cs": {
+      "IndustrialProcessingSystem.Services.ReportEntry": {
+        "IndustrialProcessingSystem.Models.Job IndustrialProcessingSystem.Services.ReportEntry::get_Job()": {
+          "Lines": {
+            "8": 27
+          },
+          "Branches": []
+        },
+        "System.Int32 IndustrialProcessingSystem.Services.ReportEntry::get_Result()": {
+          "Lines": {
+            "9": 23
+          },
+          "Branches": []
+        },
+        "System.Boolean IndustrialProcessingSystem.Services.ReportEntry::get_Failed()": {
+          "Lines": {
+            "10": 31
+          },
+          "Branches": []
+        },
+        "System.TimeSpan IndustrialProcessingSystem.Services.ReportEntry::get_ExecutionTime()": {
+          "Lines": {
+            "11": 26
+          },
+          "Branches": []
+        },
+        "System.Void IndustrialProcessingSystem.Services.ReportEntry::.ctor(IndustrialProcessingSystem.Models.Job,System.Int32,System.Boolean,System.TimeSpan)": {
+          "Lines": {
+            "13": 23,
+            "14": 23,
+            "15": 23,
+            "16": 23,
+            "17": 23,
+            "18": 23,
+            "19": 23
+          },
+          "Branches": []
+        }
+      },
+      "IndustrialProcessingSystem.Services.ReportService": {
+        "System.Void IndustrialProcessingSystem.Services.ReportService::AddEntry(IndustrialProcessingSystem.Services.ReportEntry)": {
+          "Lines": {
+            "37": 23,
+            "38": 23,
+            "39": 23,
+            "40": 23,
+            "41": 23,
+            "42": 23
+          },
+          "Branches": []
+        },
+        "System.Void IndustrialProcessingSystem.Services.ReportService::GenerateReport()": {
+          "Lines": {
+            "45": 28,
+            "47": 28,
+            "48": 28,
+            "49": 28,
+            "50": 28,
+            "52": 28,
+            "53": 4,
+            "54": 3,
+            "55": 3,
+            "56": 3,
+            "57": 3,
+            "58": 3,
+            "59": 3,
+            "60": 3,
+            "61": 28,
+            "63": 28,
+            "64": 4,
+            "65": 1,
+            "66": 1,
+            "67": 1,
+            "68": 1,
+            "69": 1,
+            "70": 1,
+            "71": 1,
+            "72": 28,
+            "74": 28,
+            "75": 28,
+            "76": 28,
+            "77": 28,
+            "78": 28,
+            "79": 3,
+            "80": 3,
+            "81": 3,
+            "82": 3,
+            "83": 3,
+            "84": 28,
+            "85": 28,
+            "86": 28,
+            "87": 28,
+            "88": 1,
+            "89": 1,
+            "90": 1,
+            "91": 1,
+            "92": 28,
+            "93": 28,
+            "94": 28,
+            "95": 28,
+            "98": 28,
+            "99": 28,
+            "100": 28,
+            "101": 28,
+            "102": 28
+          },
+          "Branches": []
+        },
+        "System.Void IndustrialProcessingSystem.Services.ReportService::StartPeriodicReporting(System.Threading.CancellationToken)": {
+          "Lines": {
+            "105": 19,
+            "106": 19,
+            "107": 18,
+            "108": 18,
+            "109": 18,
+            "110": 19,
+            "111": 18,
+            "112": 18,
+            "113": 0,
+            "114": 0,
+            "115": 18,
+            "116": 18,
+            "117": 18,
+            "118": 19,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 37,
+            "125": 19
+          },
+          "Branches": []
+        },
+        "System.Void IndustrialProcessingSystem.Services.ReportService::.ctor(System.String)": {
+          "Lines": {
+            "25": 23,
+            "26": 23,
+            "27": 23,
+            "28": 23,
+            "30": 23,
+            "31": 23,
+            "32": 23,
+            "33": 23,
+            "34": 23
+          },
+          "Branches": []
+        }
+      },
+      "IndustrialProcessingSystem.Services.ReportService/<>c__DisplayClass8_0/<<StartPeriodicReporting>b__0>d": {
+        "System.Void IndustrialProcessingSystem.Services.ReportService/<>c__DisplayClass8_0/<<StartPeriodicReporting>b__0>d::MoveNext()": {
+          "Lines": {},
+          "Branches": [
+            {
+              "Line": 108,
+              "Offset": 237,
+              "EndOffset": 20,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 18
+            },
+            {
+              "Line": 108,
+              "Offset": 237,
+              "EndOffset": 242,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 18
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\marij\\Downloads\\IndustrialProcessingSystem\\IndustrialProcessingSystem\\IndustrialProcessingSystem\\Models\\Job.cs": {
+      "IndustrialProcessingSystem.Models.Job": {
+        "System.Guid IndustrialProcessingSystem.Models.Job::get_Id()": {
+          "Lines": {
+            "5": 327
+          },
+          "Branches": []
+        },
+        "IndustrialProcessingSystem.Models.JobType IndustrialProcessingSystem.Models.Job::get_Type()": {
+          "Lines": {
+            "6": 83
+          },
+          "Branches": []
+        },
+        "System.String IndustrialProcessingSystem.Models.Job::get_Payload()": {
+          "Lines": {
+            "7": 127
+          },
+          "Branches": []
+        },
+        "System.Int32 IndustrialProcessingSystem.Models.Job::get_Priority()": {
+          "Lines": {
+            "8": 91
+          },
+          "Branches": []
+        },
+        "System.Void IndustrialProcessingSystem.Models.Job::.ctor()": {
+          "Lines": {
+            "10": 3
+          },
+          "Branches": []
+        },
+        "System.Void IndustrialProcessingSystem.Models.Job::.ctor(System.Guid,IndustrialProcessingSystem.Models.JobType,System.String,System.Int32)": {
+          "Lines": {
+            "12": 49,
+            "13": 49,
+            "14": 49,
+            "15": 49,
+            "16": 49,
+            "17": 49,
+            "18": 49
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\marij\\Downloads\\IndustrialProcessingSystem\\IndustrialProcessingSystem\\IndustrialProcessingSystem\\Models\\JobHandle.cs": {
+      "IndustrialProcessingSystem.Models.JobHandle": {
+        "System.Guid IndustrialProcessingSystem.Models.JobHandle::get_Id()": {
+          "Lines": {
+            "5": 37
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Int32> IndustrialProcessingSystem.Models.JobHandle::get_Result()": {
+          "Lines": {
+            "6": 50
+          },
+          "Branches": []
+        },
+        "System.Void IndustrialProcessingSystem.Models.JobHandle::.ctor(System.Guid,System.Threading.Tasks.Task`1<System.Int32>)": {
+          "Lines": {
+            "8": 35,
+            "9": 35,
+            "10": 35,
+            "11": 35,
+            "12": 35
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\marij\\Downloads\\IndustrialProcessingSystem\\IndustrialProcessingSystem\\IndustrialProcessingSystem\\Config\\SystemConfig.cs": {
+      "IndustrialProcessingSystem.Config.SystemConfig": {
+        "System.Int32 IndustrialProcessingSystem.Config.SystemConfig::get_WorkerCount()": {
+          "Lines": {
+            "8": 6
+          },
+          "Branches": []
+        },
+        "System.Int32 IndustrialProcessingSystem.Config.SystemConfig::get_MaxQueueSize()": {
+          "Lines": {
+            "9": 6
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<IndustrialProcessingSystem.Models.Job> IndustrialProcessingSystem.Config.SystemConfig::get_InitialJobs()": {
+          "Lines": {
+            "10": 21
+          },
+          "Branches": []
+        },
+        "IndustrialProcessingSystem.Config.SystemConfig IndustrialProcessingSystem.Config.SystemConfig::LoadFromXml(System.String)": {
+          "Lines": {
+            "13": 4,
+            "14": 4,
+            "15": 4,
+            "16": 4,
+            "18": 4,
+            "19": 4,
+            "21": 4,
+            "22": 4,
+            "23": 4,
+            "24": 30,
+            "25": 9,
+            "26": 9,
+            "27": 9,
+            "28": 9,
+            "29": 9,
+            "31": 9,
+            "32": 9,
+            "33": 4,
+            "35": 4,
+            "36": 4
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 112,
+              "EndOffset": 117,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 4
+            },
+            {
+              "Line": 24,
+              "Offset": 277,
+              "EndOffset": 144,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 9
+            },
+            {
+              "Line": 24,
+              "Offset": 277,
+              "EndOffset": 282,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 4
+            },
+            {
+              "Line": 22,
+              "Offset": 112,
+              "EndOffset": 298,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            }
+          ]
+        }
+      }
+    }
+  }
+}
