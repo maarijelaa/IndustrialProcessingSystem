@@ -103,7 +103,5 @@ Simulira čitanje stanja sa adrese koristeći `Thread.Sleep`.
     <Job Type="IO" Payload="delay:1_000" Priority="3"/>
   </Jobs>
 
-### Code Coverage
-![Code Coverage](coverage.jpg)
 </SystemConfig>
 ```
